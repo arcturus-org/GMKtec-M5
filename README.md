@@ -39,8 +39,15 @@ System version: Somona 14.3.1 (23D60)
 ## Thanks
 
 1. [NootedRed](https://github.com/ChefKissInc/NootedRed)
+
 2. [ryzen-hackintosh](https://github.com/mikigal/ryzen-hackintosh)
+
 3. [opencore](https://dortania.github.io/OpenCore-Legacy-Patcher)
+
 4. [USBToolBox](https://github.com/USBToolBox/tool)
+
 5. [gibMacOS](https://github.com/corpnewt/gibMacOS)
+
 6. [MountEFI](https://github.com/corpnewt/MountEFI)
+
+7. [SSDTTime](https://github.com/corpnewt/SSDTTime)

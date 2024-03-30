@@ -44,7 +44,7 @@
                     <key>Enabled</key>
                     <true/>
                     <key>Path</key>
-                    <string>SSDT-XOSI.aml</string>
+                    <string>SSDT-UIAC.aml</string>
                 </dict>
             </array>
             <key>Delete</key>

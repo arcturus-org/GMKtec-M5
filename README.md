@@ -8,6 +8,8 @@ GPU: AMD Radeon Graphics 4 GB
 
 Wired network card：8125BS
 
+Wireless network card: AX210
+
 System version: Somona 14.3.1 (23D60) 
 
 # kexts
@@ -35,6 +37,8 @@ System version: Somona 14.3.1 (23D60)
 11. [NootedRed](https://github.com/ChefKissInc/NootedRed)
 
 12. USBPorts --> created by [Hackintool](https://github.com/benbaker76/Hackintoo) --> before installation, you need use [USBToolBox](https://github.com/USBToolBox/kext)
+
+13. [AirportItlwm](https://github.com/OpenIntelWireless/itlwm)
 
 ## Thanks
 

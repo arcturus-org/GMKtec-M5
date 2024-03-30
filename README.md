@@ -40,6 +40,8 @@ System version: Somona 14.3.1 (23D60)
 
 13. [AirportItlwm](https://github.com/OpenIntelWireless/itlwm)
 
+14. [RadeonSensor](https://github.com/ChefKissInc/RadeonSensor)
+
 ## Thanks
 
 1. [NootedRed](https://github.com/ChefKissInc/NootedRed)

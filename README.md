@@ -10,7 +10,7 @@ Wired network card：8125BS
 
 Wireless network card: AX210
 
-System version: Somona 14.3.1 (23D60) 
+System version: Somona 14.5 (23F79) [support 10.13~14.5]
 
 # kexts
 
@@ -42,7 +42,9 @@ System version: Somona 14.3.1 (23D60)
 
 14. [RadeonSensor](https://github.com/ChefKissInc/RadeonSensor)
 
-## Thanks
+15. [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
+
+## reference
 
 1. [NootedRed](https://github.com/ChefKissInc/NootedRed)
 
